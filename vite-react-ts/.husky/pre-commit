@@ -1,0 +1,2 @@
+cd vite-react-ts
+npm run lint
